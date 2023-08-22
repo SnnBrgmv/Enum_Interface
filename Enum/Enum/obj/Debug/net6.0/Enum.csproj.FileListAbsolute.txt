@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\bin\Debug\net6.0\Enum.exe
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\bin\Debug\net6.0\Enum.deps.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\bin\Debug\net6.0\Enum.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\bin\Debug\net6.0\Enum.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\obj\Debug\net6.0\Enum.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\obj\Debug\net6.0\refint\Enum.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\obj\Debug\net6.0\Enum.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(12) 22.08.2023\Enum\Enum\obj\Debug\net6.0\ref\Enum.dll
